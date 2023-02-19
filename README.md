@@ -1,5 +1,6 @@
 ![npm](https://img.shields.io/npm/v/@ronjtech/tiny)
 ![npm bundle size](https://img.shields.io/bundlephobia/min/@ronjtech/tiny)
+[![install size](https://packagephobia.com/badge?p=@ronjtech/tiny)](https://packagephobia.com/result?p=@ronjtech/tiny)
 
 Remove all spaces from a string.
 
