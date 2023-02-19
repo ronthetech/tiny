@@ -1,9 +1,17 @@
 {
 	"name": "@ronjtech/tiny",
 	"version": "1.0.0",
-	"description": "A tiny npm module",
+	"description": "A tiny npm module that removes all spaces from a string",
+	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Ronthetech/tiny"
-	}
+	},
+	"main": "index.js",
+	"keywords": [
+		"tiny",
+		"npm",
+		"package",
+		"ronjtech"
+	]
 }
