@@ -1,0 +1,9 @@
+{
+	"name": "@ronthetech/tiny",
+	"version": "1.0.0",
+	"description": "A tiny npm package",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Ronthetech/tiny"
+	}
+}
